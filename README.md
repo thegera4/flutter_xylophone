@@ -2,6 +2,8 @@
 
 Simple xylophone app to make small sounds (or music)
 
+[xylophone_app.webm](https://github.com/thegera4/flutter_xylophone/assets/84020433/211e1454-96bf-4bf0-a9b1-c5fbbfc5fbdb)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
